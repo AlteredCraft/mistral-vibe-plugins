@@ -1,1 +1,1 @@
-# mistral-vibe-marketplace
+# mistral-vibe-plugins
